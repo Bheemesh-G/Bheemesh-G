@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bheemesh-G
-- 🌱 I’m currently learning Java(oops),DSA
+- 🌱 I’m currently learning Java(oops),DSA(Intermediate).
 - 💞️ I’m looking to collaborate on anything related to tech.
 - 📫 How to reach me gbheemesh888@gmail.com
 
