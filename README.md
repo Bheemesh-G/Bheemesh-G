@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bheemesh-G
-- 🌱 I’m currently learning Java,DSA(Intermediate),oops,SQL.
+- 🌱 I have skills like Java,DSA,SQL,oops,Spring Boot,REST APIs.
 - 💞️ I’m looking to collaborate on anything related to tech.
 - 📫 How to reach me gbheemesh888@gmail.com
 
